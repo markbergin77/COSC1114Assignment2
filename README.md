@@ -32,6 +32,6 @@ Two central mailbox's calculating seperate temperatures, both with 4 external pr
 A replication of Task 2, except implementing the solution via multithreading.
 
 # Running the application is simple: 
-** _ If GCC is installed on your machine, tasks are compiled using the command "make task#" with # being a number of 1-3. _ **
+**_If GCC is installed on your machine, tasks are compiled using the command "make task#" with # being a number of 1-3._**
 
-** _ Running each task is done via "make runTask#" with # being a number of 1-3. _ **
+**_Running each task is done via "make runTask#" with # being a number of 1-3._**
